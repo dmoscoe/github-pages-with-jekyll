@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+theme: minima
+title: "Learning about GH Pages"
+author: "Daniel Moscoe"
+description: "An experiment as I learn about GitHub pages and creating a portfolio site."
